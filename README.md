@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![minesweeper](assets/images/game.png)
+![game](assets/images/game.png)
 
 ## Running
 
